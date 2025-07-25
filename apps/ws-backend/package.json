@@ -10,10 +10,14 @@
   },
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
+    "@types/ws": "^8.18.1",
     "ts-node": "^10.9.2"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
 }
